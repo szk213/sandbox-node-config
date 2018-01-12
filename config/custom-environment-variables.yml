@@ -1,0 +1,8 @@
+test3:
+  JAVA_HOME
+test2:
+  aaa: JAVA_HOME
+  abc: JAVA_HOME
+  xyz: JAVA_HOME
+  array:
+    - JAVA_HOME

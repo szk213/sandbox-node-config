@@ -1,0 +1,3 @@
+test:
+  filename: hostname.yml
+  hostname: hostname!!
